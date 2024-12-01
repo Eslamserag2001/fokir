@@ -1,0 +1,153 @@
+
+
+
+@media screen and (max-width:1024px) {
+
+
+
+
+    .sora {
+        width: 50%;
+    }
+
+    .caption-pading1 {
+        width: 50%;
+    }
+
+
+
+
+    .serviec-itemmoo {
+        width: 20%;
+        margin: 30px 50px;
+        
+    }
+
+    .profile-img {
+        width: 50%;
+        display: block;
+        margin: auto;
+    }
+
+  
+
+    .alex {
+        width: 80%;
+        margin: auto;
+    }
+
+    .alextext {
+        width: 70%;
+    }
+
+    .alx-img {
+        width: 30%;
+    }
+
+    .feadback-img {
+        width: 60% ;
+        margin:  50px 50px 50px 190px ;
+        
+        display: block;
+    }
+
+    .form {
+        width: 70%;
+
+    }
+
+    .form .inb1 , .form  .inb2 {
+        width: 50%;
+        margin: auto;
+    }
+
+    .form textarea {
+        width: 70%;
+        height: 50px;
+    }
+
+
+}
+
+
+
+ 
+ 
+ 
+ 
+ 
+ @media screen and (max-width:776px) {
+
+
+    .fokir-item {
+        display: none;
+    }
+
+
+    .sora {
+        width: 100%;
+    }
+
+    .caption-pading1 {
+        width: 100%;
+    }
+
+
+
+
+    .serviec-itemmoo {
+        width: 70%;
+        margin: 30px 50px;
+        clear: both;
+    }
+
+    .profile-img {
+        width: 90%;
+        display: block;
+        margin: auto;
+    }
+
+    .alex {
+        width: 100%;
+    }
+
+    .alex {
+        width: 90%;
+        margin: auto;
+    }
+
+    .alextext {
+        width: 60%;
+    }
+
+    .alx-img {
+        width: 30%;
+    }
+
+    .feadback-img {
+        margin:  50px  ;
+        
+        display: block;
+        width: 80%;
+        display: block;
+    }
+
+    .form {
+        width: 100%;
+
+    }
+
+    .inb1,
+    .inb2 {
+        width: 90%;
+    }
+
+    .form textarea {
+        width: 90%;
+        height: 50px;
+    }
+
+
+}
+
+
